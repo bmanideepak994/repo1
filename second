@@ -1,4 +1,4 @@
 #include<stido.h>
-void main{
+void main(){
 printf("Good morning");
 }
