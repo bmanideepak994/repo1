@@ -1,4 +1,8 @@
-#include<stdio.h>
-void main(){
-printf("Hello world");
+package m;
+
+public class Mani {
+public static void main(String args[])
+{
+	System.out.println("Welcome to GPREC");
+}
 }
